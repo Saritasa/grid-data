@@ -1,0 +1,22 @@
+{
+    "name": "markard/grid-data",
+    "description": "Grid data is package for generate json data for client grid js packages.",
+    "keywords": ["laravel","grid","data"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry",
+            "email": "dmtry88@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Markard\\GridData": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
