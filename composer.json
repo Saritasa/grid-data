@@ -1,5 +1,5 @@
 {
-    "name": "markard/grid-data",
+    "name": "saritasa/grid-data",
     "description": "Grid data is package for generate json data for client grid js packages.",
     "keywords": ["laravel","grid","data"],
     "license": "MIT",
